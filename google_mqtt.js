@@ -3,7 +3,7 @@ const { google } = require("googleapis");
 
 // === 1. CẤU HÌNH ===
 const KEY_FILE = "pricetag-482903-a16154fd2ff3.json"; 
-const SHEET_ID = "1z6xF-rMS03wI7x33aTFDGzNWdK3eyXafCtL8mhUas8";
+const SHEET_ID = "1z6xF-rMjS03wI7x33aTFDGzNWdK3eyXafCtL8mhUas8";
 const RANGE = "Sheet1!A2:E"; 
 
 const MQTT_HOST = "mqtt://broker.hivemq.com:1883";
